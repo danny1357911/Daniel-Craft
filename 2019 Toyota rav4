@@ -1,0 +1,1 @@
+`cd /data && rm -rf openpilot && git clone https://github.com/illumiN8i/openpilot && cd openpilot && git checkout RAV4-Hybrid-TSS2-066 && reboot`
